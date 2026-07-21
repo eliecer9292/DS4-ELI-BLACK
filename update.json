@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "publishedAt": "2026-07-21T00:00:00Z",
+  "url": "https://github.com/eliecer9292/DS4Eli-Pulsar-Updates/releases/download/v1.0.0/1.0.0.zip",
+  "sha256": "5e41c4de21c7252c853c8a7e07c943154eded1119886f83173d50025faa69f50",
+  "size": 537731477,
+  "minLauncherVersion": "1.1",
+  "notes": "Primera versión de DS4 ELI PULSAR.",
+  "app": {
+    "url": "https://github.com/eliecer9292/DS4Eli-Pulsar-Updates/releases/download/v1.0.0/1.0.0.zip",
+    "sha256": "5e41c4de21c7252c853c8a7e07c943154eded1119886f83173d50025faa69f50"
+  },
+  "history": []
+}
