@@ -1,14 +1,9 @@
 {
-  "version": "1.0.0",
-  "publishedAt": "2026-07-21T00:00:00Z",
-  "url": "https://github.com/eliecer9292/DS4Eli-Pulsar-Updates/releases/download/v1.0.0/1.0.0.zip",
-  "sha256": "5e41c4de21c7252c853c8a7e07c943154eded1119886f83173d50025faa69f50",
-  "size": 537731477,
-  "minLauncherVersion": "1.1",
-  "notes": "Primera versión de DS4 ELI PULSAR.",
-  "app": {
-    "url": "https://github.com/eliecer9292/DS4Eli-Pulsar-Updates/releases/download/v1.0.0/1.0.0.zip",
-    "sha256": "5e41c4de21c7252c853c8a7e07c943154eded1119886f83173d50025faa69f50"
-  },
+  "version": "1.0.1",
+  "publishedAt": "2026-09-17T00:00:00Z",
+  "url": "https://github.com/eliecer9292/DS4-ELI-BLACK/releases/download/v1.0.1/v1.0.1.zip",
+  "sha256": "2285a148654ae014a191e933de6da97e70696a438a3b99b93103669bbab0a332",
+  "notas": "Macros más estables · Rapid Fire y Auto Placa siguen el interruptor principal · La luz del mando cambia de color al instante · Tus ajustes se guardan al cerrar · Aim asistido y Auto Placa listos para Warzone",
+  "aviso": "Hay una versión nueva de Ds4 Eli Black. En Ajustes → Acerca pulsa DESCARGAR e instálala cuando puedas.",
   "history": []
 }
