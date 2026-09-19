@@ -1,9 +1,9 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "publishedAt": "2026-09-17T00:00:00Z",
-  "url": "https://github.com/eliecer9292/DS4-ELI-BLACK/releases/download/v1.0.6/v1.0.6.zip",
-  "sha256": "d94def186bca70bf7b20179377706bc0cd0b1c2527970b3a8d94aca564b291e5",
+  "url": "https://github.com/eliecer9292/DS4-ELI-BLACK/releases/download/v1.0.7/v1.0.7.zip",
+  "sha256": "c0ea92b555ee4a9c7e9713c76fcda531446d962ff5591efe6284c70b872df7db",
   "notas": "Macros más estables · Rapid Fire y Auto Placa siguen el interruptor principal · La luz del mando cambia de color al instante · Tus ajustes se guardan al cerrar · Aim asistido y Auto Placa listos para Warzone",
-  "aviso": " Notas de la update 1.0.6: Macros más estables · Rapid Fire y Auto Placa siguen el interruptor principal · La luz del mando cambia de color al instante · Tus ajustes se guardan al cerrar · Aim asistido y Auto Placa listos para Warzone.",
+  "aviso": " Notas de la update 1.0.7: Macros más estables · Rapid Fire y Auto Placa siguen el interruptor principal · La luz del mando cambia de color al instante · Tus ajustes se guardan al cerrar · Aim asistido y Auto Placa listos para Warzone.",
   "history": []
 }
