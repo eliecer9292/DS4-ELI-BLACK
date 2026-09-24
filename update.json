@@ -1,9 +1,9 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "publishedAt": "2026-09-17T00:00:00Z",
-  "url": "https://github.com/eliecer9292/DS4-ELI-BLACK/releases/download/v1.0.8/v1.0.8.zip",
-  "sha256": "992082f32704fceefd88d7d5f991003c5d997801dee748d884c6e72f872a844a",
-  "notas": "Macros más estables · Rapid Fire y Auto Placa siguen el interruptor principal · La luz del mando cambia de color al instante · Tus ajustes se guardan al cerrar · Aim asistido y Auto Placa listos para Warzone",
-  "aviso": "Notas de la actualización 1.0.8: Macros más estables · Rapid Fire y Auto Placa siguen el interruptor principal · La luz del mando cambia de color al instante · Tus ajustes se guardan al cerrar · Aim asistido y Auto Placa listos para Warzone",
+  "url": "https://github.com/eliecer9292/DS4-ELI-BLACK/releases/download/v1.0.9/v1.0.9.zip",
+  "sha256": "c3ffa57e4e8202ca7723b1cb033963c89fe259aa47698918f2046cc3a93ecdbc",
+  "notas": "Elige apuntar/disparar en L2+R2 o L1+R1 (solo IA y ayudas, el mando no se remapea) · Paletas Edge: inferior izquierda e inferior derecha se pueden asignar a cualquier botón",
+  "aviso": "Notas de la actualización: Elige apuntar/disparar en L2+R2 o L1+R1 (solo IA y ayudas, el mando no se remapea) · Paletas Edge: inferior izquierda e inferior derecha se pueden asignar a cualquier botón",
   "history": []
 }
