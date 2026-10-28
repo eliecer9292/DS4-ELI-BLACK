@@ -1,9 +1,9 @@
 {
-  "version": "1.5",
+  "version": "1.6",
   "publishedAt": "2026-09-17T00:00:00Z",
-  "url": "https://github.com/eliecer9292/DS4-ELI-BLACK/releases/download/v1.5/v1.5.zip",
+  "url": "https://github.com/eliecer9292/Vantex-Titan/releases/download/v1.6/v1.6.zip",
   "sha256": "135ab7fbc81d9b26fe182a1c19044f1ab827aab68ca7c17eb32a4e20ed83faa8",
-  "notas": "**Notas de la última actualización v1.5**\n**Ayuda.** Guía de Call of Duty para dejar la imagen limpia: pantalla, calidad, mando y qué revisar si algo no va.\n**Trackeo IA.** Las perillas vienen afinadas y bloqueadas. Personalizar avisa antes de moverlas.\n**Calibrar.** La i explica cómo hacerlo: apunta a una pared y no toques el mando.",
-  "aviso": "**Notas de la última actualización v1.5**\n**Ayuda.** Guía de Call of Duty para dejar la imagen limpia: pantalla, calidad, mando y qué revisar si algo no va.\n**Trackeo IA.** Las perillas vienen afinadas y bloqueadas. Personalizar avisa antes de moverlas.\n**Calibrar.** La i explica cómo hacerlo: apunta a una pared y no toques el mando.",
+  "notas": "**Notas de la última actualización v1.6**\n**Minimizar.** Ahora oculta la ventana por completo y mantiene el programa ejecutándose en segundo plano.\n**Correcciones.** Optimización y corrección de errores en el código general.\n**Ayuda.** Se añadió el botón directo a los tutoriales en el menú de ayuda.",
+  "aviso": "**Notas de la última actualización v1.6**\n**Minimizar.** Ahora oculta la ventana por completo y mantiene el programa ejecutándose en segundo plano.\n**Correcciones.** Optimización y corrección de errores en el código general.\n**Ayuda.** Se añadió el botón directo a los tutoriales en el menú de ayuda.",
   "history": []
 }
