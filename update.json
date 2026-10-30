@@ -3,7 +3,7 @@
   "publishedAt": "2026-09-17T00:00:00Z",
   "url": "https://github.com/eliecer9292/DS4-ELI-BLACK/releases/download/v1.7/v1.7.zip",
   "sha256": "B55F6FE1725B266A18329D66AB2E01DEA85EEC3872C92BF3731A1AF5F60FDB96",
-  "notas": "**Notas de la actualización v1.7**\n**Corrección crítica.** Se solucionó el fallo que inhabilitaba el funcionamiento de la IA tras la última actualización.\n**Estabilidad.** Motor de seguimiento y respuesta de IA 100% restablecidos y optimizados.",
-  "aviso": "**Notas de la actualización v1.7**\n**Corrección crítica.** Se solucionó el fallo que inhabilitaba el funcionamiento de la IA tras la última actualización.\n**Estabilidad.** Motor de seguimiento y respuesta de IA 100% restablecidos y optimizados.",
+  "notas": "**Notas de la actualización v1.7**\n**Corrección crítica.** Se solucionó el fallo que inhabilitaba el funcionamiento de la IA y de los macros tras la última actualización.\n**Estabilidad.** Motor de seguimiento y respuesta de IA 100% restablecidos y optimizados.",
+  "aviso": "**Notas de la actualización v1.7**\n**Corrección crítica.** Se solucionó el fallo que inhabilitaba el funcionamiento de la IA y de los macros tras la última actualización.\n**Estabilidad.** Motor de seguimiento y respuesta de IA 100% restablecidos y optimizados.",
   "history": []
 }
